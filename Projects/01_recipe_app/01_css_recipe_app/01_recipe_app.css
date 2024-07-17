@@ -1,0 +1,22 @@
+html {
+	background-color: lightgreen;
+}
+.recipe {
+	color: palevioletred;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.recipe-image {
+	border-radius: 20px;
+	border: solid, 3px, black;
+}
+#project-title {
+	font-size: 12px;
+}
+#web-title {
+	font-size: 50px;
+	text-align: center;
+	color: palevioletred;
+	background-color: black;
+	padding: 5%;
+}
